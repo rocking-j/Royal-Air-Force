@@ -316,7 +316,13 @@
         "3292": {
             "name": "Boeing p8I Neptune",
             "liveries": [
-                "https://i.ibb.co/fGNjw8FM/boeingp81.png"
+                {
+                    "name": "Royal Air Force",
+                    "texture": [
+                        "https://i.ibb.co/fGNjw8FM/boeingp81.png"
+                    ],
+                    "credits": "Noia"
+                }
             ],
             "labels": [
                 "Texture"
