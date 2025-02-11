@@ -1,6 +1,6 @@
 {
     "name": "Royal Air Force",
-    "color": "#00ffee",
+    "color": "#000000",
     "bgcolor": "#ffffff",
     "aircrafts": {
         "1": {
