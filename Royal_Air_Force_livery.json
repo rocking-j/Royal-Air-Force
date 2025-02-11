@@ -1,7 +1,7 @@
 {
     "name": "Royal Air Force",
-    "color": "#00a2ff",
-    "bgcolor": "#f70a0a",
+    "color": "#00ffee",
+    "bgcolor": "#ffffff",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
