@@ -126,8 +126,15 @@
         },
         "18": {
             "name": "Sukhoi Su-35 Flanker",
-            "liveries": [
-            ],
+            "liveries": [ 
+                {
+                    "name": "Royal Air Force",
+                    "texture": [
+                        "https://i.ibb.co/R4DcCFjZ/RAF-Su35.webp"
+                    ],
+                    "credits": "Nick"
+                }
+            ],   
             "labels": [
                 "Texture"
             ]
