@@ -6,13 +6,6 @@
         "1": {
             "name": "Piper J3 Cub",
             "liveries": [
-                  {
-                    "name": "Royal Air Force",
-                    "texture": [
-                        "https://i.ibb.co/Rk2Px5fG/raf-a330.png"
-                    ],
-                    "credits": "Noia"
-                }
             ],
             "labels": [
                 "Texture"
@@ -568,6 +561,13 @@
         "2856": {
             "name": "Airbus a330-200",
             "liveries": [
+                {
+                    "name": "Royal Air Force",
+                    "texture": [
+                        "https://i.ibb.co/Rk2Px5fG/raf-a330.png"
+                    ],
+                    "credits": "Noia"
+                }
             ],
             "labels": [
                 "Texture"
