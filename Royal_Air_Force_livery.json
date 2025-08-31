@@ -140,22 +140,18 @@
         },
         "18": {
             "name": "Sukhoi Su-35 Flanker",
-            "liveries": [ 
-                {
-                    "name": "Royal Air Force",
-                    "texture": [
-                        "https://iili.io/3nmWiQt.png"
-                    ],
-                    "credits": "Nick"
-                },
-                {
-                    "name": "Typhoon Blackjack",
-                    "texture": [
-                        "https://i.ibb.co/2Y1vdV5R/Typhoon-Blackjack.png"
-                    ],
-                    "credits": "Nick"
-                }
-            ],   
+            "liveries": [
+            ],   "29": {
+            "name": "Dassault Rafale",
+            "liveries": [
+            ],
+            "labels":[
+                "Normal map",
+                "Main texture",
+                "Specular shader",
+                "Cockpit texture"
+            ]
+        },
             "labels": [
                 "Texture"
             ]
@@ -607,6 +603,31 @@
             ],
             "labels": [
                 "Texture"
+            ]
+        },
+        "29": {
+            "name": "Dassault Rafale",
+            "liveries": [
+                {
+                    "name": "Royal Air Force",
+                    "texture": [
+                        "https://iili.io/3nmWiQt.png"
+                    ],
+                    "credits": "Nick"
+                },
+                {
+                    "name": "Typhoon Blackjack",
+                    "texture": [
+                        "https://i.ibb.co/2Y1vdV5R/Typhoon-Blackjack.png"
+                    ],
+                    "credits": "Nick"
+                }
+            ],
+            "labels":[
+                "Normal map",
+                "Main texture",
+                "Specular shader",
+                "Cockpit texture"
             ]
         },
         "5156": {
