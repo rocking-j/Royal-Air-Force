@@ -22,6 +22,20 @@
         "3": {
             "name": "Alphajet PAF",
             "liveries": [
+                {
+                    "name": "Royal Air Force 1",
+                    "texture": [
+                        "https://i.ibb.co/xcjHkCd/alpha01-T.jpg"
+                    ],
+                    "credits": null
+                },
+                {
+                    "name": "Royal Air Force 2",
+                    "texture": [
+                        "https://i.ibb.co/TDf616qL/alpha02-T.jpg"
+                    ],
+                    "credits": null
+                }
             ],
             "labels": [
                 "Fuselage texture",
@@ -133,6 +147,13 @@
                         "https://iili.io/3nmWiQt.png"
                     ],
                     "credits": "Nick"
+                },
+                {
+                    "name": "Typhoon Blackjack",
+                    "texture": [
+                        "https://i.ibb.co/2Y1vdV5R/Typhoon-Blackjack.png"
+                    ],
+                    "credits": "Nick"
                 }
             ],   
             "labels": [
@@ -142,6 +163,13 @@
         "20": {
             "name": "Aerospatiale France - British Aircraft Corporation Concorde",
             "liveries": [
+                {
+                    "name": "Concorde Vespina",
+                    "texture": [
+                        "https://i.ibb.co/ynDtp37Z/Concorde-VESPINA-13.png"
+                    ],
+                    "credits": "Noia"
+                },
             ],
             "labels": [
                 "Texture"
