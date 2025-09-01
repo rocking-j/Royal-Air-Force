@@ -611,6 +611,13 @@
                         "https://i.ibb.co/4ZZMFgJk/Typhoon-Blackjack.png"
                     ],
                     "credits": "Nick"
+                },
+                {
+                    "name": "Battle of Britain",
+                    "texture": [
+                        "https://i.ibb.co/cXXssT20/Battle-of-Britain-Rafale.png"
+                    ],
+                    "credits": "IsaacWB"
                 }
             ],
             "labels":[
