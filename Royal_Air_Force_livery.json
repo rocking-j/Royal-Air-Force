@@ -608,20 +608,29 @@
                 {
                     "name": "Typhoon Blackjack",
                     "texture": [
-                        "https://i.ibb.co/4ZZMFgJk/Typhoon-Blackjack.png"
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/dessault_rafale/normal/Image_0.jpg",
+                        "https://i.ibb.co/4ZZMFgJk/Typhoon-Blackjack.png",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/dessault_rafale/specular/Image_2.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/dessault_rafale/cockpit/Image_4.jpg"
                     ],
                     "credits": "Nick"
                 },
                 {
                     "name": "Battle of Britain",
                     "texture": [
-                        "https://i.ibb.co/cXXssT20/Battle-of-Britain-Rafale.png"
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/dessault_rafale/normal/Image_0.jpg",
+                        "https://i.ibb.co/cXXssT20/Battle-of-Britain-Rafale.png",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/dessault_rafale/specular/Image_2.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/dessault_rafale/cockpit/Image_4.jpg"
                     ],
                     "credits": "IsaacWB"
                 }
             ],
-            "labels":[
-                "Texture"
+            "labels": [
+                "Normal map",
+                "Main texture",
+                "Specular shader",
+                "Cockpit texture"
             ]
         },
         "5156": {
