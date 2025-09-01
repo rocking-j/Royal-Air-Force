@@ -141,17 +141,7 @@
         "18": {
             "name": "Sukhoi Su-35 Flanker",
             "liveries": [
-            ],   "29": {
-            "name": "Dassault Rafale",
-            "liveries": [
             ],
-            "labels":[
-                "Normal map",
-                "Main texture",
-                "Specular shader",
-                "Cockpit texture"
-            ]
-        },
             "labels": [
                 "Texture"
             ]
@@ -165,7 +155,7 @@
                         "https://i.ibb.co/ynDtp37Z/Concorde-VESPINA-13.png"
                     ],
                     "credits": "Noia"
-                },
+                }
             ],
             "labels": [
                 "Texture"
