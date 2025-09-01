@@ -614,10 +614,7 @@
                 }
             ],
             "labels":[
-                "Normal map",
-                "Main texture",
-                "Specular shader",
-                "Cockpit texture"
+                "Texture"
             ]
         },
         "5156": {
