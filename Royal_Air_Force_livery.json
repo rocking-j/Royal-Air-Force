@@ -85,8 +85,18 @@
         "10": {
             "name": "Airbus a380-800",
             "liveries": [
+                {
+                    "name": "Royal Air Force 1",
+                    "texture": [
+                        "/models/aircraft/premium/a380/normal.jpg",
+                        "/models/aircraft/premium/a380/specular.jpg",
+                        "https://i.ibb.co/Jjpkt7fg/Royal-Air-Force-A380.png"
+                    ],
+                    "credits": null
+                }
             ],
             "labels": [
+                "Normal map",
                 "Specular shader",
                 "Texture"
             ]
@@ -347,9 +357,9 @@
                 {
                     "name": "Royal Air Force",
                     "texture": [
-                        "https://i.ibb.co/fGNjw8FM/boeingp81.png"
+                        "https://i.ibb.co/R4MVTCgp/Royal-Air-Force.png"
                     ],
-                    "credits": "Noia"
+                    "credits": "IsaacWB"
                 }
             ],
             "labels": [
