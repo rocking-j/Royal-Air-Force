@@ -607,6 +607,13 @@
         "27": {
             "name": "McDonell Douglas - Boeing F/A-18F Super Hornet",
             "liveries": [
+                {
+                    "name": "Royal Air Force",
+                    "texture": [
+                        "https://i.ibb.co/tT2Ysv2W/RAF-f18.png"
+                    ],
+                    "credits": "Lotus"
+                }
             ],
             "labels": [
                 "Texture"
@@ -641,6 +648,28 @@
                 "Main texture",
                 "Specular shader",
                 "Cockpit texture"
+            ]
+        },
+        "3591": {
+            "name": "McDonnell Douglas F-15C Eagle",
+            "liveries": [
+                {
+                    "name": "44th Rhodesia Squadron",
+                    "texture": [
+                        "https://i.ibb.co/d06Lf9HW/44-Rhodesia.png"
+                    ],
+                    "credits": "Darkdino76"
+                },
+                {
+                    "name": "IX Squadron",
+                    "texture": [
+                        "https://i.ibb.co/VpTBdmnq/IX-Squadron.png"
+                    ],
+                    "credits": "Darkdino76"
+                }
+            ],
+            "labels": [
+                "Texture"
             ]
         },
         "5156": {
