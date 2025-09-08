@@ -504,6 +504,14 @@
         "25": {
             "name": "Boeing b777-300ER",
             "liveries": [
+                {
+                    "name": "RAF Voyager",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://i.ibb.co/xqzfGssb/777-300-ER-Voyager-Livery.png"
+                    ],
+                    "credits": "Darkdino76"
+                }
             ],
             "labels": [
                 "Specular shader",
