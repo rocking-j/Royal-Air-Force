@@ -45,7 +45,13 @@
         "4": {
             "name": "Boeing b737-700",
             "liveries": [
-            ],
+                {
+                    "name":"E-7 Wedgetail"
+                    "texture": [
+                        "https://i.ibb.co/yBShYSBs/Royal-Air-Force-1.png"
+                    ],
+                    "credits":"DarkDino76"
+                    
             "labels": [
                 "Specular shader",
                 "Texture"
