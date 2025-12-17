@@ -764,13 +764,13 @@
             "name": "Northrop YF-23",
             "liveries": [
                 { 
-                    "name": "BAE Tempest"
+                    "name": "BAE Tempest",
                     "texture": [
                         "https://ibb.co/gZhqjC28"
                     ],
                     "credits": "DarkDino76"
                 }
-                }
+        
         
     }
 }
