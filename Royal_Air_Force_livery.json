@@ -759,6 +759,18 @@
             "labels": [
                 "Texture"
             ]
-        }
+        },
+        "5431": {
+            "name": "Northrop YF-23",
+            "liveries": [
+                { 
+                    "name": "BAE Tempest"
+                    "texture": [
+                        "https://ibb.co/gZhqjC28"
+                    ],
+                    "credits": "DarkDino76"
+                }
+                }
+        
     }
 }
