@@ -599,6 +599,13 @@
         "2951": {
             "name": "Airbus a340-300",
             "liveries": [
+                 {
+                    "name": "Royal Air Force",
+                    "texture": [
+                        "https://i.ibb.co/TqdVcX5c/Royal-Air-Force.png"
+                    ],
+                    "credits": "DarkDino76"
+                }
             ],
             "labels": [
                 "Texture"
